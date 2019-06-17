@@ -2,4 +2,4 @@
 
 ## How do I install these formulae?
 
-Just run: `brew install aj-may/brew/<formula>`
+Just run: `brew install aj-may/dotdocker/<formula>`
