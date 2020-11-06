@@ -1,8 +1,8 @@
 class Dotdocker < Formula
   desc "Setup a docker development environment with host based routing"
   homepage "https://github.com/aj-may/dotdocker/"
-  url "https://github.com/aj-may/dotdocker/releases/download/v1.4.1/dotdocker-macos"
-  sha256 "1ce059c4e91091c53c5de3144587a1d0802b909fa8fea89cac1c5bd7f3eaec2e"
+  url "https://github.com/aj-may/dotdocker/releases/download/v1.5.0/dotdocker-macos"
+  sha256 "f6b5bff413ef2365a8e6aff66d730ad8d6a0e94d5e17d49d400e4ac5c599a0aa"
 
   def install
     File.rename "dotdocker-macos", "dotdocker"
